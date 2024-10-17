@@ -62,6 +62,16 @@
       "id": "a2a5",
       "username": "abi",
       "password": "123"
+    },
+    {
+      "id": "5718",
+      "username": "sufail",
+      "password": "123"
+    },
+    {
+      "id": "41b2",
+      "username": "abc",
+      "password": "123"
     }
   ],
   "tasks": [
@@ -83,15 +93,6 @@
       "dueDate": "2024-09-05",
       "lastUpdatedDate": "2024-10-16",
       "status": "Complete"
-    },
-    {
-      "id": "0142",
-      "title": "abc",
-      "description": "abc",
-      "creationDate": "2024-10-16",
-      "dueDate": "2024-10-16",
-      "lastUpdatedDate": "2024-10-16",
-      "status": "Pending"
     },
     {
       "id": "4353",

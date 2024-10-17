@@ -16,7 +16,8 @@ export interface Task {
   providedIn: 'root'
 })
 export class TodoService {
-  private tasksUrl = 'http://localhost:3000/tasks';
+  // Replace localhost with your Render backend URL
+  private tasksUrl = '';
 
   constructor(private http: HttpClient) {}
 
